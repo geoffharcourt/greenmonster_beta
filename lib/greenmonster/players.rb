@@ -1,0 +1,2 @@
+module Greenmonster::Players
+end
