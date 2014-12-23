@@ -1,0 +1,2 @@
+module Greenmonster::Transactions
+end
