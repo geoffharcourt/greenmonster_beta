@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Greenmonster::VERSION
   spec.authors       = ["Geoff Harcourt"]
   spec.email         = ["geoff.harcourt@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{A toolkit for baseball research}
+  spec.description   = %q{A toolkit for baseball research}
   spec.homepage      = ""
   spec.license       = "MIT"
 
