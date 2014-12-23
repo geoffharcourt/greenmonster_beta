@@ -1,6 +1,6 @@
 # Greenmonster
 
-TODO: Write a gem description
+A toolkit for baseball research
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+
 
 ## Contributing
 
